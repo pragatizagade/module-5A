@@ -1,0 +1,45 @@
+body{
+    background-image: url('mo1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    
+}
+.b{
+    
+    width:920px;
+    height:300px;
+    top:50px;
+    left:30px;
+    text-align: center;
+    
+}
+.d{
+    top:50px;
+    right:50px;
+    width:910px;
+    height:300px;
+    
+}
+#z{
+    display:inline-block;
+    text-align: center;
+}
+.y{
+    width:100px;
+    height:30px;
+    border-radius: 5px;
+    /* top:80px; */
+    /* right:2000px;
+    transform: translateX(50%); */
+    background-color: blue;
+    color:rgb(246, 246, 248)
+    
+}
+.Y,.c{
+    text-align: center;
+}
+.x{
+    top:100px;
+    right:500px;
+    text-indent: 5px;
+}
