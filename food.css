@@ -1,0 +1,29 @@
+.A{
+    border:solid 2px;
+    height:100vh;
+   
+    background-image: url("https://img.freepik.com/free-photo/people-taking-photos-food_23-2149303525.jpg?w=1380&t=st=1705491238~exp=1705491838~hmac=eb8942c53f4285232b6fbd5132b037ebbe2a2d4c0ccef5917fb041e7afcf3e2b");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.B{
+    /* border:solid 2px; */
+    height:30vh;
+    margin-top:70vh;
+    border-radius: 9px;
+    background-color: #f6c56e;
+}
+h1{
+    padding: 10px 50px;
+}
+p{
+    padding: 5px 50px
+}
+button{
+    padding: 5px 50px ;
+    border-radius: 5px;
+    height:40px;
+}
+.a{
+    margin-left: 50px;
+}

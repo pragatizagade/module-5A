@@ -1,0 +1,50 @@
+.c,.Z{
+    border:solid 1px;
+    display:flex;
+    justify-content:space-between;
+    border-radius: 5px;
+       ;
+}
+p{
+    width:50%;
+    padding-top: 20px;
+    margin-left:20px;
+}
+h1{
+    margin-left:20px;
+}
+.C{
+    display:flex;
+    justify-content:space-between;
+    border: solid 1px;
+    border-radius: 5px;
+}
+.Z{
+    justify-content: space-around;
+
+
+}
+.z{
+    border: solid 1px;
+    border-radius: 12px;
+}
+.u{
+    margin: 30px 850px ;
+    
+}
+button{
+    width:100px;
+    height: 40px;
+    border-radius: 5px;
+}
+.c{
+    background-color: #fb4e71
+
+}
+#s{
+    height:21vh;
+
+}
+#S{
+    background-color: #e6f6ff;
+}

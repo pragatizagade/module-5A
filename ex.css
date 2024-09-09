@@ -1,0 +1,26 @@
+div{
+    border:solid;
+    height:150px;
+
+}
+
+.col1,.col3{
+    box-sizing:border-box;
+    height:100%;
+    width:33%;
+    display:inline-block;
+    
+}
+.col2{
+    display:inline-flex;
+    width:49%;
+
+}
+.row1{
+    display:block;
+    height:49%;
+}
+.row2{
+    display:block;
+    width: 40%;
+}

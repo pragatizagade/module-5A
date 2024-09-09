@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+
+<form  id='S'>
+    <fieldset> 
+        <legend center>Form</legend>  
+            <label>Name</label>
+            <input type="text" name="name" placeholder="Name" id="name">
+            <span id="nameError" class="error"></span><br/><br/>
+            <label> Phone Number : </label>
+            <input type="text" name="Phone Number" placeholder="Enter the Phone Number" id="phone" >
+            <span id="phoneError" class="error"></span><br/><br/>
+            <label>Email Id : </label>
+            <input type="text" name="email" placeholder="Enter the Email" id="email">
+            <span id="emailError" class="error"></span><br/><br/>
+            <label>Gender : </label>
+            <input type="radio" name="gender" value="Male" >
+            <label>Male</label>
+            <input type="radio" name="gerder" value="Female">
+            <label>Female</label>
+            <input type="radio" name="gender" value="Other">
+            <label>Other</label><br><br>
+             <label>Date of Birth : </label>
+             <input type="date"><br><br>
+            <label> Hobbies : </label>
+            
+            <input type="checkbox" name="intrest" value="singing">
+            <label>singing</label>
+            <input type="checkbox" name="intrest" value="Dancing">
+            <label> Dancing</label>
+            <input  type="checkbox" name="intrest" value=" Playing">
+            <label> Playing</label><br><br>
+            
+               
+            
+            <label>Education Qualification : </label>
+            <select> 
+                <option name="selct" value="Select Option" disable>select option </option>
+                <option name="qualification" >10 + 2</option>
+                <option name="qualification" >Graduation</option>
+                <option name="qualification" >Post graduation</option>
+            </select><br><br>
+            <label>Address : </label><br><br>
+            <textarea name=" Address" rows="9" cols="50" placeholder="Address"></textarea><br><br>
+            <button type="submit" >Submit</button>
+    </fieldset>
+
+</form>
+<script src="form.js"></script>
+</body>
